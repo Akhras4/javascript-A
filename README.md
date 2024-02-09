@@ -6,7 +6,7 @@
        <li>Exercise 2</li>
        <li>Exercise 3</li>
    </ul>
-   <li><a href="array.js">Array</a></li>
+   <li><a href="array.js"style="">Array</a></li>
    <ul>
        <li><a href="https://github.com/Akhras4/javascript-A/blob/edb240fad360394e803819dcededc1d282e74a58/array.js#L13">Exercise 1</a></li>
        <li><a href="https://github.com/Akhras4/javascript-A/blob/edb240fad360394e803819dcededc1d282e74a58/array.js#L8">Exercise 2</a></li>
