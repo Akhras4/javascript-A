@@ -28,7 +28,6 @@ function statRest(input2){
     totalSeconds++; 
   }
 }, 1000);
-
 }
 work(1,0.5);
 
