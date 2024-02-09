@@ -12,7 +12,8 @@ function work(input1,input2) {
     } else {
       totalSeconds--; 
     }
-  }, 1000); 
+  }, 1000);
+   
 }
 function statRest(input2){
   let totalSeconds = input2 * 60;
