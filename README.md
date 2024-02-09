@@ -14,7 +14,7 @@
    </ul>
    <li><a href="function.js">Functions</a></li>
    <ul>
-       <li><a href="https://github.com/Akhras4/javascript-A/blob/063211631552ca2a4bab4e14187ef00e67a3453a/function.js#L1">checkAge</a></li>
+       <li><a href="https://github.com/Akhras4/javascript-A/blob/9a619b51aa4a36371cb5b60936b0932ec57ab459/function.js#L1">checkAge</a></li>
        <li><a href="https://github.com/Akhras4/javascript-A/blob/063211631552ca2a4bab4e14187ef00e67a3453a/function.js#L5">pow(x,n)</a></li>
        <li><a href="https://github.com/Akhras4/javascript-A/blob/063211631552ca2a4bab4e14187ef00e67a3453a/function.js#L16">Replace Function Expressions with arrow functions</a></li>
       <li><a href="https://github.com/Akhras4/javascript-A/blob/063211631552ca2a4bab4e14187ef00e67a3453a/function.js#L26">Create an object calculator</a></li>
