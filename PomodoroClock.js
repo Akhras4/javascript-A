@@ -1,13 +1,13 @@
 function work(input1,input2) {
-  let totalsec = input1 * 60;
+  let mininsec = input1 * 60;
   let timer = setInterval(() => {
-    let min = Math.floor(totalsec / 60);
+    let min = Math.floor(mininsec / 60);
     let sec = totalsec % 60;
 
     console.log(`${min} : ${sec} `);
 
-    if (totalSec === 0) {
-      clearInterval(timer); 
+    if (minlsec === 0) {
+      clearInterval(work); 
         statRest(input2);
     } else {
       totalSeconds--; 
