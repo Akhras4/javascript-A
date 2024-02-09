@@ -12,7 +12,14 @@
        <li><a href="https://github.com/Akhras4/javascript-A/blob/edb240fad360394e803819dcededc1d282e74a58/array.js#L8">Exercise 2</a></li>
        <li><a href="https://github.com/Akhras4/javascript-A/blob/72616a20f15e2bdd54d10aca7332734e7e4ec67e/array.js#L7">Exercise 3</a></li>
    </ul>
-   <li>Functions</li>
+   <li><a href="function.js">Functions</a></li>
+   <ul>
+       <li><a href="https://github.com/Akhras4/javascript-A/blob/063211631552ca2a4bab4e14187ef00e67a3453a/function.js#L1">checkAge</a></li>
+       <li><a href="https://github.com/Akhras4/javascript-A/blob/063211631552ca2a4bab4e14187ef00e67a3453a/function.js#L5">pow(x,n)</a></li>
+       <li><a href="https://github.com/Akhras4/javascript-A/blob/063211631552ca2a4bab4e14187ef00e67a3453a/function.js#L16">Replace Function Expressions with arrow functions</a></li>
+      <li><a href="https://github.com/Akhras4/javascript-A/blob/063211631552ca2a4bab4e14187ef00e67a3453a/function.js#L26">Create an object calculator</a></li>
+       <li><a href="https://github.com/Akhras4/javascript-A/blob/063211631552ca2a4bab4e14187ef00e67a3453a/function.js#L48">function min(a,b) </a></li>
+   </ul>
    <li>Assignment - Pomodoro Clock</li>
 </ol>
 
