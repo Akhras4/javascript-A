@@ -29,6 +29,7 @@ function statRest(input2){
   }
 }, 1000);
 }
+
 work(1,0.5);
 
 

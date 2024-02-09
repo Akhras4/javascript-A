@@ -23,7 +23,6 @@ ask(
   )
 
 
-
   let calculator = {
       read(a,b){
           this.val1=a;
