@@ -1,4 +1,4 @@
-const age=(age)=>(age>18?true:"'Do you have your parents permission to access")
+const age=(age)=>(age>18? true: "Do you have your parents permission to access")
 console.log(age(25))
 
 
