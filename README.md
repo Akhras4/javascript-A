@@ -20,6 +20,9 @@
       <li><a href="https://github.com/Akhras4/javascript-A/blob/063211631552ca2a4bab4e14187ef00e67a3453a/function.js#L26">Create an object calculator</a></li>
        <li><a href="https://github.com/Akhras4/javascript-A/blob/063211631552ca2a4bab4e14187ef00e67a3453a/function.js#L48">function min(a,b) </a></li>
    </ul>
-   <li><a href="https://github.com/Akhras4/javascript-A/tree/07b39f663b7ef17184e0a4a8a8ae6a2dcb400f77/Promodoro">Assignment - Pomodoro Clock</a></li>
+   <li><a href="https://github.com/Akhras4/javascript-A/tree/07b39f663b7ef17184e0a4a8a8ae6a2dcb400f77/Promodoro">Assignment - Pomodoro Clock</a>
+   </li>![clock 1](https://github.com/Akhras4/javascript-A/assets/65845301/ca001978-59fa-49d7-947b-1fdf1236cfd9)![clock 2](https://github.com/Akhras4/javascript-A/assets/65845301/5efbdb97-cd38-41b1-bffd-585efcd2cf83)
+
+
 </ol>
 
