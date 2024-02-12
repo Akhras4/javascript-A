@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="javascript-A\Promodoro\Promodoroclock.css">
+    <link rel="script" href="javascript-A\Promodoro\PomodoroClock.js">
+    <title>Document</title>
+</head>
+<body>
+    <div class="choseTime">
+        <form id="timerform">
+            <label for="work">Work:</label>
+            <input id="work" type="number" min="1" max="60" />
+            <label for="rest">Rest:</label>
+            <input id="rest" type="number" min="1" max="60" />
+            <label></label>
+            <input type="submit" value="Start" id="stbut" />
+        </form>
+    </div>
+    <div id="clock">
+        <p class="time">00:00</p>
+        <p class="text">Digital Pomodoro Clock </p>
+        <div>
+            <button id="Promodoro" onclick="stop()">Pomodoro</button>
+        </div>
+    </div>
+    <audio id="alarm" >
+        <source src="mixkit-classic-alarm-995.wav"  type="audio/wav">
+    </audio>
+</body>
+</html>
