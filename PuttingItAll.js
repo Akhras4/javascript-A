@@ -10,13 +10,13 @@ introduce(){
 }
 
 const PrintUser=new Person("Johan",25)
-const Person1=new Person("tom",50)
 PrintUser.introduce();
 /**
  * The function describePerson calls the introduce method of the Person1 object.
  * @param callback - The callback parameter is a function that will be called within the describePerson
  * function.
  */
+const Person1=new Person("tom",50)
 function describePerson(callback){
     callback.call(Person1);
 }
