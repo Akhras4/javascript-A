@@ -8,7 +8,6 @@ introduce(){
     console.log("hi my name is",`${this.name}`,"and i am ",`${this.age}`, "years old.")
 }
 }
-
 const PrintUser=new Person("Johan",25)
 PrintUser.introduce();
 /**
@@ -21,8 +20,6 @@ function describePerson(callback){
     callback.call(Person1);
 }
 describePerson(Person1.introduce)
-
-
 /* The code snippet is creating a Promise object called `wait`. */
 let number=20
 let wait = new Promise((resolve,reject)=>{
