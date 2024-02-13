@@ -30,8 +30,8 @@
 <h3>OOP</h3>
 <ul>
     <li><a href="https://github.com/Akhras4/javascript-A/blob/4256f612818ebb1edd7f87e8a0a82fbb60662888/PuttingItAll.js#L1"> Classes</a></li>
-    <li><a href="https://github.com/Akhras4/javascript-A/blob/4256f612818ebb1edd7f87e8a0a82fbb60662888/PuttingItAll.js#L14"></a>This</li>
-    <li><a href="https://github.com/Akhras4/javascript-A/blob/4256f612818ebb1edd7f87e8a0a82fbb60662888/PuttingItAll.js#L20"></a>Promises</li>
+    <li><a href="https://github.com/Akhras4/javascript-A/blob/4256f612818ebb1edd7f87e8a0a82fbb60662888/PuttingItAll.js#L14">This</a></li>
+    <li><a href="https://github.com/Akhras4/javascript-A/blob/4256f612818ebb1edd7f87e8a0a82fbb60662888/PuttingItAll.js#L20">Promises</a>s</li>
 </ul>
 
 
