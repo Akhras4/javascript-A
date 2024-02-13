@@ -31,7 +31,7 @@
 <ul>
     <li><a href="https://github.com/Akhras4/javascript-A/blob/4256f612818ebb1edd7f87e8a0a82fbb60662888/PuttingItAll.js#L1"> Classes</a></li>
     <li><a href="https://github.com/Akhras4/javascript-A/blob/4256f612818ebb1edd7f87e8a0a82fbb60662888/PuttingItAll.js#L14">This</a></li>
-    <li><a href="https://github.com/Akhras4/javascript-A/blob/4256f612818ebb1edd7f87e8a0a82fbb60662888/PuttingItAll.js#L20">Promises</a>s</li>
+    <li><a href="https://github.com/Akhras4/javascript-A/blob/78572d924d9ac3e0f9b448953385839cc534a001/PuttingItAll.js#L31">Promises</a>s</li>
 </ul>
 
 
