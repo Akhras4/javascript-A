@@ -15,6 +15,7 @@ PrintUser.introduce();
  * @param callback - The callback parameter is a function that will be called within the describePerson
  * function.
  */
+
 const Person1=new Person("tom",50)
 function describePerson(callback){
     callback.call(Person1);
@@ -28,8 +29,5 @@ let wait = new Promise((resolve,reject)=>{
     }else{
         reject("fail upload")
     }
-}) 
+})
 wait.then((number)=>setTimeout(()=>console.log(`${number}`),1000))
-   
-
-
