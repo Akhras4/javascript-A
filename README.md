@@ -27,7 +27,7 @@
 
 ![clock 1](https://github.com/Akhras4/javascript-A/assets/65845301/5f4adb86-de16-4969-ad1a-dcdade3a50a2)
 ![clock 2](https://github.com/Akhras4/javascript-A/assets/65845301/e2ef2f59-74d5-4d25-aa09-099f72535624)
-<h3>OOP</h3>
+<h2>OOP</h2>
 <ul>
     <li><a href="https://github.com/Akhras4/javascript-A/blob/4256f612818ebb1edd7f87e8a0a82fbb60662888/PuttingItAll.js#L1"> Classes</a></li>
     <li><a href="https://github.com/Akhras4/javascript-A/blob/4256f612818ebb1edd7f87e8a0a82fbb60662888/PuttingItAll.js#L14">This</a></li>
