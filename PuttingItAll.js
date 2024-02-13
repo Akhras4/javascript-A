@@ -21,13 +21,22 @@ function describePerson(callback){
     callback.call(Person1);
 }
 describePerson(Person1.introduce)
-/* The code snippet is creating a Promise object called `wait`. */
-let number=20
-let wait = new Promise((resolve,reject)=>{
+
+/**
+ * The function "wait" takes a number as an argument, creates a promise that resolves with the number
+ * after a delay of 1 second, and logs the number to the console.
+ * @param number - The `number` parameter is a value that is passed to the `wait` function. It is used
+ * to determine whether the promise should resolve or reject.
+ */
+function wait(number){
+ new Promise((resolve,reject)=>{
     if(number){
         resolve(`${number}`)
     }else{
         reject("fail upload")
     }
-})
+}) 
 wait.then((number)=>setTimeout(()=>console.log(`${number}`),1000))
+   
+
+
